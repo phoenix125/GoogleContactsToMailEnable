@@ -1,1 +1,7 @@
-v1.0^v1.0 Initial Release
+v1.1^v1.1 Bug Fixes
+• Fixed: Work Fax or Work URL were not importing.
+• Fixed: Only the last Home, Work, and Other addresses and phone numbers were being kept. Adiitional Home, Work, and Other addresses and phone number entries will be added to notes.
+• Fixed: Phone numbers in the Notes section were not being reformatted when reformatting enabled.
+• Fixed: "\n" in addresses are now replaced by [ENTER]
+
+v1.0 Initial Release
