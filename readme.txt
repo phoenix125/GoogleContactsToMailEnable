@@ -65,7 +65,7 @@ More ServerUpdateUtilities available: Conan Exiles, 7 Days to Die, and Atlas.
 
 (2021-02-23) v1.1 Bug Fixes
 • Fixed: Work Fax or Work URL were not importing.
-• Fixed: Only the last Home, Work, and Other addresses and phone numbers were being kept. Adiitional Home, Work, and Other addresses and phone number entries will be added to notes.
+• Fixed: Only the last Home, Work, and Other addresses and phone numbers were being kept. Additional Home, Work, and Other addresses and phone number entries will be added to notes.
 • Fixed: Phone numbers in the Notes section were not being reformatted when reformatting enabled.
 • Fixed: "\n" in addresses are now replaced by [ENTER]
 
